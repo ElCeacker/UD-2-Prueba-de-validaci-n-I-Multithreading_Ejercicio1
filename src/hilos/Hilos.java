@@ -22,7 +22,6 @@ public class Hilos extends Thread{
         for (int i = 0; i <= TOTAL_CALIFICACIONES_SUMAR; i++) {
             sumaTotal += notas.getCalificaciones().get(i);
         }
-
         return sumaTotal;
     }
 

@@ -38,7 +38,5 @@ public class Main {
         hilo8.join();
         hilo9.join();
         hilo10.join();
-
-
     }
 }
